@@ -1,5 +1,18 @@
 # 💫 About Me:
-i'm an Engineering Student<br><br>
+Hi there! 👋 I'm Pavana K V a 3rd-year Information Science and Engineering student. I’m passionate about learning new technologies and solving problems through coding.
+
+Currently, I am focusing on mastering Python and building my skills in Data Structures and Algorithms.
+
+- 💻 Languages: Python, C (learning Java and SQL)
+- 🔧 Tools: Git, VS Code
+
+🚀 I'm working on a Python-based projects.  
+🔍 Exploring data science projects using Python libraries such as Pandas and NumPy.
+
+I love exploring new technologies and am constantly learning from platforms like GitHub and Hakerrank . I'm open to collaborating on interesting projects and contributing to open-source.
+
+📫 How to reach me: pavanakv557@gmail.com
+<br><br>
 
 
 # 💻 Tech Stack:
