@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Pavana K V a 3rd-year Information Science and Engineering student. I’m passionate about learning new technologies and solving problems through coding.
+Hi there! 👋 I'm Pavana K V a Information Science and Engineering student. I’m passionate about learning new technologies and solving problems through coding.
 
 Currently, I am focusing on mastering Python and building my skills in Data Structures and Algorithms.
 
