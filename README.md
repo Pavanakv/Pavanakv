@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack & AI Developer | React · Node.js · Python<br>🎓 Final Year ISE @ Atria Institute of Technology, Bangalore<br>🤖 Building AI-powered apps with LLM APIs & Machine Learning<br>🌍 Exploring security & scalable backend systems<br>⚡ I don't just learn tech — I build and deploy real products
+💻 Full Stack & AI Developer | React · Node.js · Python<br>🤖 Building AI-powered apps with LLM APIs & Machine Learning<br>🌍 Exploring security & scalable backend systems<br>⚡ I don't just learn tech — I build and deploy real products
 
 
 ## 🌐 Socials:
